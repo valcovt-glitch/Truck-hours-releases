@@ -1,8 +1,8 @@
 {
-  "version": "0.12.13",
-  "versionCode": 146,
-  "apkUrl": "https://github.com/valcovt-glitch/Truck-hours-releases/releases/download/beta-v0.12.13/Truck-Hours-Beta-v0.12.13.apk",
-  "fileName": "Truck-Hours-Beta-v0.12.13.apk",
-  "sha256": "c6511546524fd8f7d2ad7c629ec45d272f69d8466ab00d75a3c26c47ed083570",
+  "version": "0.13.0",
+  "versionCode": 147,
+  "apkUrl": "https://github.com/valcovt-glitch/Truck-hours-releases/releases/download/beta-v0.13.0/Truck-Hours-Beta-v0.13.0.apk",
+  "fileName": "Truck-Hours-Beta-v0.13.0.apk",
+  "sha256": "f1d43a4b70188c78bdacda4864d9ac0c7ede4928e52557d405a96842065068d5",
   "notes": "Nová beta verzia Truck Hours je pripravená na inštaláciu."
 }
