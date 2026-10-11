@@ -1,9 +1,9 @@
 {
-  "version": "0.13.4",
-  "versionCode": 151,
-  "apkUrl": "https://github.com/valcovt-glitch/Truck-hours-releases/releases/download/beta-v0.13.4/Truck-Hours-Beta-v0.13.4.apk",
-  "fileName": "Truck-Hours-Beta-v0.13.4.apk",
-  "sha256": "4e73d75c8f4cb529c452deea8bce2323aa6e29e49e0ce3d825bbe0f6cb85e69b",
-  "notes": "Novinky a prehľadnejšie nastavenia\n• Prehľad noviniek zobrazuje iba aktuálnu verziu a po aktualizácii sa otvorí pri prvom spustení.\n• Informácie o predplatnom nájdeš v samostatnej položke nastavení.\n• Tlačidlo na spustenie automatiky jemne pulzuje.",
-  "notesEn": "Release notes and clearer settings\n• Release notes show only the current version and open on the first launch after an update.\n• Subscription information is available in a separate settings item.\n• The start automation button gently pulses."
+  "version": "0.13.5",
+  "versionCode": 152,
+  "apkUrl": "https://github.com/valcovt-glitch/Truck-hours-releases/releases/download/beta-v0.13.5/Truck-Hours-Beta-v0.13.5.apk",
+  "fileName": "Truck-Hours-Beta-v0.13.5.apk",
+  "sha256": "30aaf74b074aea9338f9227d29b5a3b06bbb4f2ba86c4cca8e31ae0131d40f5b",
+  "notes": "Prehľadnejší výber chôdze\n• Nové okno výberu práce alebo odpočinku s farebnými ikonami a jednotným vzhľadom aplikácie.",
+  "notesEn": "Clearer walking selection\n• New work or rest selection dialog with colored icons and a consistent app appearance."
 }
