@@ -1,9 +1,9 @@
 {
-  "version": "0.13.6",
-  "versionCode": 153,
-  "apkUrl": "https://github.com/valcovt-glitch/Truck-hours-releases/releases/download/beta-v0.13.6/Truck-Hours-Beta-v0.13.6.apk",
-  "fileName": "Truck-Hours-Beta-v0.13.6.apk",
-  "sha256": "0601b1b5abcda975c5cd3f35e86619c36f5ae3397b051916ef5eb652547b6bdf",
-  "notes": "Jednotné okná upozornení\n• Upozornenia a potvrdenia sa zobrazujú v okne v štýle aplikácie namiesto bieleho systémového okna.",
-  "notesEn": "Consistent message dialogs\n• Messages and confirmations now appear in an app-styled dialog instead of the white system window."
+  "version": "0.13.7",
+  "versionCode": 154,
+  "apkUrl": "https://github.com/valcovt-glitch/Truck-hours-releases/releases/download/beta-v0.13.7/Truck-Hours-Beta-v0.13.7.apk",
+  "fileName": "Truck-Hours-Beta-v0.13.7.apk",
+  "sha256": "0e85c2b96d7d82674b049d5d891cb4dc10c91fd0e041fd270085e6c7db0fab11",
+  "notes": "Aktualizácia iba na požiadanie\n• Aplikácia pri spustení sama neponúka aktualizáciu. Novú verziu nájdeš v Nastaveniach.\n• Čo je nové sa zobrazí až po úspešnej aktualizácii.",
+  "notesEn": "Updates only on request\n• The app no longer offers updates on its own at start-up. You can check for a new version in Settings.\n• What's new is shown only after a successful update."
 }
