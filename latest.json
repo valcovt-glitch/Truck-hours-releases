@@ -1,9 +1,9 @@
 {
-  "version": "0.13.5",
-  "versionCode": 152,
-  "apkUrl": "https://github.com/valcovt-glitch/Truck-hours-releases/releases/download/beta-v0.13.5/Truck-Hours-Beta-v0.13.5.apk",
-  "fileName": "Truck-Hours-Beta-v0.13.5.apk",
-  "sha256": "30aaf74b074aea9338f9227d29b5a3b06bbb4f2ba86c4cca8e31ae0131d40f5b",
-  "notes": "Prehľadnejší výber chôdze\n• Nové okno výberu práce alebo odpočinku s farebnými ikonami a jednotným vzhľadom aplikácie.",
-  "notesEn": "Clearer walking selection\n• New work or rest selection dialog with colored icons and a consistent app appearance."
+  "version": "0.13.6",
+  "versionCode": 153,
+  "apkUrl": "https://github.com/valcovt-glitch/Truck-hours-releases/releases/download/beta-v0.13.6/Truck-Hours-Beta-v0.13.6.apk",
+  "fileName": "Truck-Hours-Beta-v0.13.6.apk",
+  "sha256": "0601b1b5abcda975c5cd3f35e86619c36f5ae3397b051916ef5eb652547b6bdf",
+  "notes": "Jednotné okná upozornení\n• Upozornenia a potvrdenia sa zobrazujú v okne v štýle aplikácie namiesto bieleho systémového okna.",
+  "notesEn": "Consistent message dialogs\n• Messages and confirmations now appear in an app-styled dialog instead of the white system window."
 }
