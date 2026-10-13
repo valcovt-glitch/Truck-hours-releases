@@ -1,9 +1,9 @@
 {
-  "version": "0.13.8",
-  "versionCode": 155,
-  "apkUrl": "https://github.com/valcovt-glitch/Truck-hours-releases/releases/download/beta-v0.13.8/Truck-Hours-Beta-v0.13.8.apk",
-  "fileName": "Truck-Hours-Beta-v0.13.8.apk",
-  "sha256": "7533b383f3cd3f95c958e89c7d7c36d4d8c725b94a11f2616ea6c540fc849033",
-  "notes": "Jednotný vzhľad tlačidiel\n• Tlačidlá v celej aplikácii majú jednotný vzhľad: hlavná akcia je zelená, vedľajšie akcie majú modrý obrys a Späť či Zrušiť sú tlmené.",
-  "notesEn": "Consistent button design\n• Buttons now look the same throughout the app: the main action is green, supporting actions have a blue outline, and Back or Cancel are subdued."
+  "version": "0.13.9",
+  "versionCode": 156,
+  "apkUrl": "https://github.com/valcovt-glitch/Truck-hours-releases/releases/download/beta-v0.13.9/Truck-Hours-Beta-v0.13.9.apk",
+  "fileName": "Truck-Hours-Beta-v0.13.9.apk",
+  "sha256": "7ada7440e65444f1b97fcfe2461211e7f823400e458609091c4d121f14de584a",
+  "notes": "Oprava pádu pri meraní\n• Na starších verziách Androidu aplikácia už nepadá po spustení merania polohy.",
+  "notesEn": "Tracking crash fix\n• On older Android versions the app no longer crashes after location tracking starts."
 }
