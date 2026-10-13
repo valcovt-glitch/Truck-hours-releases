@@ -1,9 +1,9 @@
 {
-  "version": "0.13.9",
-  "versionCode": 156,
-  "apkUrl": "https://github.com/valcovt-glitch/Truck-hours-releases/releases/download/beta-v0.13.9/Truck-Hours-Beta-v0.13.9.apk",
-  "fileName": "Truck-Hours-Beta-v0.13.9.apk",
-  "sha256": "7ada7440e65444f1b97fcfe2461211e7f823400e458609091c4d121f14de584a",
-  "notes": "Oprava pádu pri meraní\n• Na starších verziách Androidu aplikácia už nepadá po spustení merania polohy.",
-  "notesEn": "Tracking crash fix\n• On older Android versions the app no longer crashes after location tracking starts."
+  "version": "0.13.10",
+  "versionCode": 157,
+  "apkUrl": "https://github.com/valcovt-glitch/Truck-hours-releases/releases/download/beta-v0.13.10/Truck-Hours-Beta-v0.13.10.apk",
+  "fileName": "Truck-Hours-Beta-v0.13.10.apk",
+  "sha256": "0cd67f89f7df89c086350e9dd3bffd0434ffd2653b4f29f75edde74a5fe4a7ba",
+  "notes": "Záloha do telefónu, Discord a úpravy obrazoviek\n• Záloha sa uloží jedným ťuknutím do priečinka Download/TruckHours a pri obnove ju aplikácia nájde sama.\n• Spätná väzba má odkaz na náš Discord a každá správa príde autorovi.\n• Na palubnom prehľade vidno pri súprave aj ŠPZ prívesu alebo návesu; na tablete je drobné písmo väčšie.\n• Nové obrazovky O aplikácii a Súkromie a údaje, výber krajiny sa posunie do zobrazenia a ďalšie drobné opravy.\n• Opravený pád merania GPS na pozadí, keď systém aplikáciu medzitým zavrel; notifikácie majú ikonu nového loga.",
+  "notesEn": "Backup to the phone, Discord and screen improvements\n• A backup is saved with one tap to the Download/TruckHours folder, and the app finds it by itself when restoring.\n• Feedback has a link to our Discord and every message reaches the author.\n• With a combination, the dashboard also shows the trailer or semi-trailer plate; small text is larger on tablets.\n• Redesigned About and Privacy screens, the country picker scrolls into view, and other small fixes.\n• Fixed a background GPS crash when the system had closed the app in the meantime; notifications use the new logo icon."
 }
