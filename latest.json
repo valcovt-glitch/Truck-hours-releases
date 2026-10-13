@@ -1,9 +1,9 @@
 {
-  "version": "0.13.7",
-  "versionCode": 154,
-  "apkUrl": "https://github.com/valcovt-glitch/Truck-hours-releases/releases/download/beta-v0.13.7/Truck-Hours-Beta-v0.13.7.apk",
-  "fileName": "Truck-Hours-Beta-v0.13.7.apk",
-  "sha256": "0e85c2b96d7d82674b049d5d891cb4dc10c91fd0e041fd270085e6c7db0fab11",
-  "notes": "Aktualizácia iba na požiadanie\n• Aplikácia pri spustení sama neponúka aktualizáciu. Novú verziu nájdeš v Nastaveniach.\n• Čo je nové sa zobrazí až po úspešnej aktualizácii.",
-  "notesEn": "Updates only on request\n• The app no longer offers updates on its own at start-up. You can check for a new version in Settings.\n• What's new is shown only after a successful update."
+  "version": "0.13.8",
+  "versionCode": 155,
+  "apkUrl": "https://github.com/valcovt-glitch/Truck-hours-releases/releases/download/beta-v0.13.8/Truck-Hours-Beta-v0.13.8.apk",
+  "fileName": "Truck-Hours-Beta-v0.13.8.apk",
+  "sha256": "7533b383f3cd3f95c958e89c7d7c36d4d8c725b94a11f2616ea6c540fc849033",
+  "notes": "Jednotný vzhľad tlačidiel\n• Tlačidlá v celej aplikácii majú jednotný vzhľad: hlavná akcia je zelená, vedľajšie akcie majú modrý obrys a Späť či Zrušiť sú tlmené.",
+  "notesEn": "Consistent button design\n• Buttons now look the same throughout the app: the main action is green, supporting actions have a blue outline, and Back or Cancel are subdued."
 }
